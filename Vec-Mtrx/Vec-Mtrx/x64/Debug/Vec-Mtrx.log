@@ -1,0 +1,6 @@
+﻿  Vector.cpp
+C:\Users\huawei\Desktop\PROGRAMOWANIE OBIEKTOWE\Vec-Mtrx\Vec-Mtrx\Vector.cpp(56,1): error C2805: binary 'operator +=' has too few parameters
+C:\Users\huawei\Desktop\PROGRAMOWANIE OBIEKTOWE\Vec-Mtrx\Vec-Mtrx\Vector.cpp(57,10): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\huawei\Desktop\PROGRAMOWANIE OBIEKTOWE\Vec-Mtrx\Vec-Mtrx\Vector.cpp(60,1): error C2803: 'operator +=' must have at least one formal parameter of class type
+C:\Users\huawei\Desktop\PROGRAMOWANIE OBIEKTOWE\Vec-Mtrx\Vec-Mtrx\Vector.cpp(60,1): error C2805: binary 'operator +=' has too few parameters
+C:\Users\huawei\Desktop\PROGRAMOWANIE OBIEKTOWE\Vec-Mtrx\Vec-Mtrx\Vector.cpp(61,10): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
